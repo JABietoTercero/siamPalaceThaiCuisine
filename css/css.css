@@ -7,12 +7,13 @@
     margin:0px auto;
     padding: 50px 0px 50px 0px;
     border-bottom: 1px ridge;
-    min-height:200px;
+    min-height:250px;
 }
 
 .footer{
     background-color: #D1C4E9;
     margin:0px auto;
+    margin-top: 2%;
     padding: 20px 0px 20px 0px;
 }
 .jumbotron {
@@ -34,5 +35,8 @@ body{
 
 .navbar-dark {
      background-color: #512DA8;
+}
+#feedb{
+    margin-top: 10%;
 }
 
